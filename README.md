@@ -5,3 +5,5 @@
 <!-- create a shop page -->
 
 <!-- create a shopping cart page -->
+
+add sport images to project folder
