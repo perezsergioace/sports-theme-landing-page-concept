@@ -6,4 +6,4 @@
 
 <!-- create a shopping cart page -->
 
-add sport images to project folder
+<!-- add sport images to project folder -->
