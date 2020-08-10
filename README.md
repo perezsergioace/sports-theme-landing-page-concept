@@ -10,4 +10,6 @@
 
 <!-- will add desgin for website -->
 
-will add more content to the page
+<!-- will add more content to the page -->
+
+finished adding images for project
