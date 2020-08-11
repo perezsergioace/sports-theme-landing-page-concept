@@ -12,4 +12,4 @@
 
 <!-- will add more content to the page -->
 
-finished adding images for project
+<!-- finished adding images for project -->
