@@ -13,5 +13,3 @@
 <!-- will add more content to the page -->
 
 <!-- finished adding images for project -->
-
-will add a contact from
